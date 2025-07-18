@@ -1,0 +1,6 @@
+{
+    "openai_api_key": "sk-eWVmOmkMdnMByLiXdbWMtUD5FCagBYQg3fRWaAjjb9flQUu6",
+    "base_url": "https://api.moonshot.cn/v1",
+    "model": "kimi-k2-0711-preview",
+    "system_prompt": "你是一个桌面语音助手，你的名字叫：Vocalis，你是一个可爱的台湾妹子。你的主要功能是通过调用MCP服务器提供的工具来帮助用户完成任务。回答应简洁明了一句话，专注于解决用户问题，并使用工具获取必要的信息。"
+}

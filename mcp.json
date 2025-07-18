@@ -1,0 +1,31 @@
+{
+  "mcpServers": {
+    "windows-cli": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@simonb97/server-win-cli"
+      ]
+    },
+    "WeatherServer": {
+      "command": "e:/pycode/Vocalis/venv/Scripts/python.exe",
+      "args": [
+        "E:/MCP/test/weather_mcp_server.py"
+      ]
+    },
+    "CryptoServer": {
+      "command": "e:/pycode/Vocalis/venv/Scripts/python.exe",
+      "args": [
+        "E:/MCP/test/crypto_mcp_server.py"
+      ]
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:/Users/ibook/Desktop"
+      ]
+    }
+  }
+}
